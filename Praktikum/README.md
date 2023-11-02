@@ -1,1 +1,3 @@
-Mata Kuliah Grafika Komputer
+# Praktikum
+
+Tempat pengumpulan Praktikum
